@@ -57,4 +57,4 @@ jobs:
           app-name: 'hal-nh26-web-sv41-30530'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93E272AA15BB4386955B716DAF5D0AD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4D047ADB09E4A288FE3BDE05AB9A25A }}
